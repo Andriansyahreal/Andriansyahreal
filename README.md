@@ -88,9 +88,11 @@ Saya tidak hanya menulis kode, tetapi juga:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andriansyahreal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-yourname.vercel.app/api?username=andriansyahreal&show_icons=true&theme=tokyonight" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriansyahreal&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=andriansyahreal&layout=compact&theme=tokyonight" />
+    <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=andriansyahreal&theme=tokyonight" />
 </p>
 
 ---
